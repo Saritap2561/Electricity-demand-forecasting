@@ -119,6 +119,7 @@ streamlit run app.py
 **Sarita Patel**
 
 BSc Computer Science Student
+B.K Birla College Kalyan
 
 GitHub: [Saritap2561](https://github.com/Saritap2561)
 
